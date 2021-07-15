@@ -9,7 +9,7 @@
 - Bootstrap
 - JavaScript
 - React (basic)
-- Version Control(Git)
+- Git
 
 
 ## 🔗 Get in touch
